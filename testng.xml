@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Running tests on https://reqres.in">
+    <test name="Running Rest Api Test" thread-count="1" parallel="false">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name = ""></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+        <classes>
+            <class name="ApiTest.RestApi"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T14:23:23 EDT" name="Running tests on https://reqres.in" finished-at="2023-03-27T14:23:39 EDT" duration-ms="15841">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T14:23:23 EDT" name="Running Rest Api Test" finished-at="2023-03-27T14:23:39 EDT" duration-ms="15841">
+      <class name="ApiTest.RestApi">
+        <test-method signature="Delete()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:23 EDT" name="Delete" finished-at="2023-03-27T14:23:28 EDT" duration-ms="4484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method signature="GetDelayedResponse()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:28 EDT" name="GetDelayedResponse" finished-at="2023-03-27T14:23:32 EDT" duration-ms="3911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetDelayedResponse -->
+        <test-method signature="GetListResource()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:32 EDT" name="GetListResource" finished-at="2023-03-27T14:23:32 EDT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetListResource -->
+        <test-method signature="GetListResourceNotFound()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:32 EDT" name="GetListResourceNotFound" finished-at="2023-03-27T14:23:32 EDT" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetListResourceNotFound -->
+        <test-method signature="GetListUsersApi()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:32 EDT" name="GetListUsersApi" finished-at="2023-03-27T14:23:33 EDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetListUsersApi -->
+        <test-method signature="GetSingleResource()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:33 EDT" name="GetSingleResource" finished-at="2023-03-27T14:23:33 EDT" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleResource -->
+        <test-method signature="GetSingleUser()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:33 EDT" name="GetSingleUser" finished-at="2023-03-27T14:23:33 EDT" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleUser -->
+        <test-method signature="GetSingleUserNotFound()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:33 EDT" name="GetSingleUserNotFound" finished-at="2023-03-27T14:23:34 EDT" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleUserNotFound -->
+        <test-method signature="PatchUpdate()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:34 EDT" name="PatchUpdate" finished-at="2023-03-27T14:23:36 EDT" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PatchUpdate -->
+        <test-method signature="PostCreate()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:36 EDT" name="PostCreate" finished-at="2023-03-27T14:23:37 EDT" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCreate -->
+        <test-method signature="PostLoginSuccessful()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:37 EDT" name="PostLoginSuccessful" finished-at="2023-03-27T14:23:37 EDT" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostLoginSuccessful -->
+        <test-method signature="PostLoginUnSuccessful()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:37 EDT" name="PostLoginUnSuccessful" finished-at="2023-03-27T14:23:38 EDT" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostLoginUnSuccessful -->
+        <test-method signature="PostRegisterSuccessful()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:38 EDT" name="PostRegisterSuccessful" finished-at="2023-03-27T14:23:38 EDT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRegisterSuccessful -->
+        <test-method signature="PostRegisterUnSuccessful()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:38 EDT" name="PostRegisterUnSuccessful" finished-at="2023-03-27T14:23:39 EDT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRegisterUnSuccessful -->
+        <test-method signature="PutUpdate()[pri:0, instance:ApiTest.RestApi@cd3fee8]" started-at="2023-03-27T14:23:39 EDT" name="PutUpdate" finished-at="2023-03-27T14:23:39 EDT" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutUpdate -->
+      </class> <!-- ApiTest.RestApi -->
+    </test> <!-- Running Rest Api Test -->
+  </suite> <!-- Running tests on https://reqres.in -->
+</testng-results>

@@ -25,4 +25,4 @@ mvn clean test
 ```sh
 ```
 ## Test run report
-![image](https://github.com/saidelgatem/demo.midtrans.com-FinalProject-Selenium-mvn-Testnj/blob/Project1/target/surefire-reports/IntelIJ%20Repport.png)
+![image](https://github.com/saidelgatem/RestAPI_FinalProject/blob/master/target/ResAPI_report.png)

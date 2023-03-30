@@ -20,8 +20,7 @@
 ```sh
 mvn clean test
 ```
-6. Tests will open on RUN tab.
-7. To view report of the automation execution, expand the target->surefire-reports folder and open "index.html" in a browser
+5. To view report of the automation execution, expand the target->surefire-reports folder and open "index.html" in a browser
 ```sh
 ```
 ## Test run report
